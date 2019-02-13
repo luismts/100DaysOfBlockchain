@@ -10,3 +10,15 @@
 **Thoughts**: A lot of interesting information about the Satoshi Nakamotoa (anybody knows him yet, maybe he is reading this repo and want a meeting, who knows xD) and the blockchain world. 
 
 **Link(s) to work**: [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
+
+## Day 2: Feb 12
+
+### Reading about the bitcoin history
+
+**Today's Progress**: Saw the video called "La mejor conferencia sobre el Bitcoin jamás expuesta" and read about the bitcoin evolution and about an introduction of blockchain.
+
+**Thoughts**: It's interesting to see from where things come from and how they work.  
+
+**Link(s) to work**: 
+- [La mejor conferencia sobre el Bitcoin jamás expuesta](https://www.youtube.com/watch?v=gQG_d8l2yEA&feature=youtu.be)
+- Others (Private)
