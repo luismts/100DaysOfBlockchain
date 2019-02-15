@@ -22,3 +22,15 @@
 **Link(s) to work**: 
 - [La mejor conferencia sobre el Bitcoin jamás expuesta](https://www.youtube.com/watch?v=gQG_d8l2yEA&feature=youtu.be)
 - Others (Private)
+
+## Day 3: Feb 14
+
+### Learning about how bitcoin works
+
+**Today's Progress**: The teacher explained how Bitcoin works supported with a presentation and some material (Like books and videos). From the book I reviewed some concepts.  
+
+**Thoughts**: Knowing how blockchain works we can think about how we can build more secure Apps (or dApps)
+
+**Link(s) to work**: 
+- [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
+- Others (Private)
