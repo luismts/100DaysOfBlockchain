@@ -34,3 +34,47 @@
 **Link(s) to work**: 
 - [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
 - Others (Private)
+
+## Day 3: Feb 16
+
+### Blockchain 2.0
+
+**Today's Progress**: 
+
+Learning about:
+- Smart Contracts
+- Basic tip about Ethereum
+- 51% problem in blockchain
+- Introduction to DApps
+- Introduction to DAOs/DACs/DASs
+- Blockchain examples
+
+**Thoughts**: I'm reinforcing knowledge in small details
+
+**Link(s) to work**: 
+- [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
+- Others (Private)
+
+## Day 3: Feb 17
+
+### Doubt and questions
+
+**Today's Progress**: My classmates and me were talking with the teacher solving doubt and answering questions about our progress week. In the same way, we were avaible to talk about extra topics like:
+
+- Blockchain business model
+- How blocks in a blockchain work
+- Bitcoin and bitcoins
+- Miners
+- Blockchain like ethereum and hyperledger
+- Among others 
+
+**Thoughts**: The more I know, the more I want to know. 
+
+**Link(s) to work**: 
+
+- [blockchain.com](https://www.blockchain.com/)
+- [BlockExplorer](https://blockexplorer.com/)
+- [BlockCypher](https://www.blockcypher.com/)
+- [Github Ethereum](https://github.com/ethereum)
+- [Github Bitcoin](https://github.com/bitcoin)
+- Others (Private)
