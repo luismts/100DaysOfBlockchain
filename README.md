@@ -81,7 +81,7 @@ Learning about:
 
 ## Day 4: Feb 19
 
-### Doubt and questions
+### Blockchain 2.0
 
 **Today's Progress**: Understanding how its work the blockchain 2.0 and the Ethereum blockchain.
 
@@ -93,7 +93,7 @@ Learning about:
 
 ## Day 4: Feb 20
 
-### Doubt and questions
+### Ethereum
 
 **Today's Progress**: Reading about Ethereum blockchain.
 
