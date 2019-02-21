@@ -78,3 +78,28 @@ Learning about:
 - [Github Ethereum](https://github.com/ethereum)
 - [Github Bitcoin](https://github.com/bitcoin)
 - Others (Private)
+
+## Day 4: Feb 19
+
+### Doubt and questions
+
+**Today's Progress**: Understanding how its work the blockchain 2.0 and the Ethereum blockchain.
+
+**Thoughts**: The more I know, the more I want to know. 
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+## Day 4: Feb 20
+
+### Doubt and questions
+
+**Today's Progress**: Reading about Ethereum blockchain.
+
+**Thoughts**: Ethereum is incredibly useful. 
+
+**Link(s) to work**: 
+
+- [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
+- Others (Private)
