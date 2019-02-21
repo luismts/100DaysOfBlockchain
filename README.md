@@ -103,3 +103,15 @@ Learning about:
 
 - [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
 - Others (Private)
+
+## Day 5: Feb 21
+
+### Blockchain 3.0
+
+**Today's Progress**: Reading about blockchain 3.0.
+
+**Thoughts**: Blockchain 3.0 is here to change the status quo in the world. 
+
+**Link(s) to work**: 
+
+- [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
