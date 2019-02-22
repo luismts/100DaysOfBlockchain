@@ -108,10 +108,17 @@ Learning about:
 
 ### Blockchain 3.0
 
-**Today's Progress**: Reading about blockchain 3.0.
+**Today's Progress**: 
+
+- Reading about blockchain 3.0
+- Reading about Ethereum (Why, how, when)
+- Reading about Ethereum history
+- Reading about Ethereum roadmap
+- Reading about Ether
 
 **Thoughts**: Blockchain 3.0 is here to change the status quo in the world. 
 
 **Link(s) to work**: 
 
 - [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
+- Others (Private)
