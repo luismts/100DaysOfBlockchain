@@ -122,3 +122,61 @@ Learning about:
 
 - [La Economia de Blockchain](https://www.amazon.es/econom%C3%ADa-blockchain-modelos-negocio-nueva-ebook/dp/B01D03T220)
 - Others (Private)
+
+
+## Day 6: Feb 22
+
+### Introduction to Ethereum
+
+**Today's Progress**: 
+
+Reading about:
+- Eth
+- Miners
+- Community (miners and developers)
+- Reading about Ether
+- Consensus Algorithms (PoW, PoE)
+- Ethereum Viertual Machine (EVM)
+- Transactions (gas cost, price, timing)
+
+**Thoughts**: The world is changing and the miners know that. 
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+## Day 7: Feb 23
+
+### Introduction to Ethereum
+
+**Today's Progress**: 
+
+Reading about:
+- Use cases
+- Smart contracts
+- Solidity
+- Architecture
+- P2P
+- DApps
+- CRYPTOGRAPHY
+- Wallet
+- Geth
+
+**Thoughts**: Its incredibly the things we can use with blockchain. 
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+## Day 8: Feb 24
+
+### Introduction to Ethereum - Geth
+
+**Today's Progress**: Seeing commands and property in cosole. Talking with the teacher
+
+**Thoughts**: Getting our hand dirty
+
+**Link(s) to work**: 
+
+- Others (Private)
+
