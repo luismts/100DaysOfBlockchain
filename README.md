@@ -180,3 +180,68 @@ Reading about:
 
 - Others (Private)
 
+## Day 9: Feb 26
+
+### Introduction to Smart Contract
+
+**Today's Progress**: The teacher talked about an introduction to Smart Contract, the structure, types, tools, etc.. 
+
+**Thoughts**: This start to get serius. 
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+## Day 10: Feb 26
+
+### Introduction to Solidity
+
+**Today's Progress**: 
+
+Read about:
+
+- Data types
+- Structure
+- Functions
+- Tools (Remix, Mist, Metamask, Truffle, Ganache)
+- Special variables
+- Exception
+- Killing contract
+
+**Thoughts**: This start to get serius. 
+
+**Link(s) to work**: 
+
+- [Remix](http://remix.ethereum.org/)
+- [Mist](https://github.com/ethereum/mist)
+- [Truffle](http://truffleframework.com/)
+- [Ganache](https://truffleframework.com/ganache)
+- [Solidity style guide](https://solidity.readthedocs.io/en/v0.5.4/style-guide.html)
+- Others (Private)
+
+### Introduction to Solidity
+
+**Today's Progress**: 
+
+Read about:
+
+- Data types
+- Structure
+- Functions
+- Tools (Remix, Mist, Metamask, Truffle, Ganache)
+- Special variables
+- Exception
+- Killing contract
+
+**Thoughts**: This start to get serius. 
+
+**Link(s) to work**: 
+
+- [Remix](http://remix.ethereum.org/)
+- [Mist](https://github.com/ethereum/mist)
+- [Truffle](http://truffleframework.com/)
+- [Ganache](https://truffleframework.com/ganache)
+- [Solidity style guide](https://solidity.readthedocs.io/en/v0.5.4/style-guide.html)
+- [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
+- Others (Private)
+
