@@ -243,3 +243,58 @@ Read about:
 - [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
 - Others (Private)
 
+## Day 12: Feb 2
+
+### Building my firts smart contract
+
+**Today's Progress**: 
+
+I was building my firts smart contracts to build a solution for a exercie proposed. I take some notes from cryptozombies platform and the resources provided.
+
+**Thoughts**: It is really difficult to understand how smart contract can work properly. But when you got it, you are done. 
+
+**Link(s) to work**: 
+
+- [Remix](http://remix.ethereum.org/)
+- [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
+- [Cryto Zombie platform](http://cryptozombies.io/)
+- Others (Private)
+
+## Day 13: Feb 3
+
+### Building my firts smart contract (part 2)
+
+**Today's Progress**: 
+
+Continue build my smart contract. The teacher was explaning some tips about building smart contract and show us his solution for the exercie proposed (one contract, and I have like eight. OMG!). 
+
+**Thoughts**: Now I need to learn how to involve solutions in the blockchain world. Yeah, let's start to read about use cases.
+
+**Link(s) to work**: 
+
+- [Remix](http://remix.ethereum.org/)
+- [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
+- [Cryto Zombie platform](http://cryptozombies.io/)
+- Others (Private)
+
+## Day 14: Feb 4
+
+### Reviewing all week material 
+
+**Today's Progress**: 
+
+Reviewing all week material 
+
+**Thoughts**: I reviewed the same but I learned new things. I dont know how this can happen but I glad of it.
+
+**Link(s) to work**: 
+
+- [Remix](http://remix.ethereum.org/)
+- [Mist](https://github.com/ethereum/mist)
+- [Truffle](http://truffleframework.com/)
+- [Ganache](https://truffleframework.com/ganache)
+- [Solidity style guide](https://solidity.readthedocs.io/en/v0.5.4/style-guide.html)
+- [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
+- [Cryto Zombie platform](http://cryptozombies.io/)
+- Others (Private)
+
