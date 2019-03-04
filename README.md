@@ -192,7 +192,7 @@ Reading about:
 
 - Others (Private)
 
-## Day 10: Feb 26
+## Day 10: Feb 27
 
 ### Introduction to Solidity
 
@@ -217,31 +217,29 @@ Read about:
 - [Truffle](http://truffleframework.com/)
 - [Ganache](https://truffleframework.com/ganache)
 - [Solidity style guide](https://solidity.readthedocs.io/en/v0.5.4/style-guide.html)
+- [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
 - Others (Private)
 
-### Introduction to Solidity
+## Day 11: Feb 28
+
+### Developing smart contract
 
 **Today's Progress**: 
 
 Read about:
 
-- Data types
-- Structure
-- Functions
-- Tools (Remix, Mist, Metamask, Truffle, Ganache)
-- Special variables
-- Exception
-- Killing contract
+- Visibility (data/functions)
+- Data storage
+- Events
+- Inheritance
+- Wallets y ERC20
+- Solution blockchain architecture 
 
-**Thoughts**: This start to get serius. 
+**Thoughts**: Solidity as a programming language has lot of things that other languages have. In the same way, it has some littles thing that can be redundant like *memory* keyword for varibles. I mean, all the variables are in memory, right? 
 
 **Link(s) to work**: 
 
 - [Remix](http://remix.ethereum.org/)
-- [Mist](https://github.com/ethereum/mist)
-- [Truffle](http://truffleframework.com/)
-- [Ganache](https://truffleframework.com/ganache)
-- [Solidity style guide](https://solidity.readthedocs.io/en/v0.5.4/style-guide.html)
 - [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
 - Others (Private)
 
