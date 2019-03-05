@@ -283,7 +283,8 @@ Continue build my smart contract. The teacher was explaning some tips about buil
 
 **Today's Progress**: 
 
-Reviewing all week material 
+- Built the apostille contract for a new exercice
+- Reviewing all week material 
 
 **Thoughts**: I reviewed the same but I learned new things. I dont know how this can happen but I glad of it.
 
@@ -296,5 +297,6 @@ Reviewing all week material
 - [Solidity style guide](https://solidity.readthedocs.io/en/v0.5.4/style-guide.html)
 - [Examples](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Examples)
 - [Cryto Zombie platform](http://cryptozombies.io/)
+- [Apostille Exercice](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Exercice%202)
 - Others (Private)
 
