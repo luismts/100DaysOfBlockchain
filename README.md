@@ -300,3 +300,51 @@ Continue build my smart contract. The teacher was explaning some tips about buil
 - [Apostille Exercice](https://github.com/luismts/BlockchainEOI/tree/master/src/module%203/Exercice%202)
 - Others (Private)
 
+## Day 15: Feb 5
+
+### Hyperledger Overview 
+
+**Today's Progress**: The teacher give us an overview about hyperledger.
+
+**Thoughts**: Lot of things!
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+
+## Day 16: Feb 6
+
+### Hyperledger  
+
+**Today's Progress**: Reading about hyperledger
+
+**Thoughts**: A world into another world...
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+## Day 17: Feb 7 and Feb 8
+
+### Hyperledger Fabric
+
+**Today's Progress**: Reading about hyperledger Fabric
+
+**Thoughts**: It seems to be the future... But mmm... I dont know, something is missing
+
+**Link(s) to work**: 
+
+- Others (Private)
+
+## Day 18: Feb 10
+
+### Hyperledger Composer
+
+**Today's Progress**: Reading about hyperledger Composer
+
+**Thoughts**: Composer is a nice tool but I dont know I'm feeling something is missing. Maybe I'm wrong
+
+**Link(s) to work**: 
+
+- Others (Private)
