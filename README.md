@@ -348,3 +348,55 @@ Continue build my smart contract. The teacher was explaning some tips about buil
 **Link(s) to work**: 
 
 - Others (Private)
+
+## Day ?: Feb 11-April4
+
+### Use cases
+
+**Today's Progress**: Lot of things
+
+**Thoughts**: I miss lot of days here but I was continuing with the class, lectures and those things
+
+**Link(s) to work**: 
+
+- Others (Private)
+- Use cases:
+
+    Tapscott, Don & Tapscott, Alex (2018). Blockchain Revolution.
+    Lesniak, Michael. The Blockchain: Introduction and Implications. (https://www.slideshare.net/malesniak1/the-blockchain-introduction-and-implications)
+    Kravchenko, Pavel. Tokenization. (https://www.slideshare.net/kravchenkopo/tokenization-80255514) 
+    Slash. New Business Models Enabled by Blockchain. (https://www.slideshare.net/slash_co/new-business-models-enabled-by-blockchain)
+    IBM. Pasemos de los casos de uso de Blockchain a las redes Blockchain reales. (https://www.ibm.com/blockchain/es-es/use-cases/)
+    Ethereum for the Enterprise. (https://pegasys.tech/)
+    Crypto token economy design for disruptive business models (https://www.slideshare.net/deframing/crypto-token-economy-design-for-disruptive-bm)
+    Design for blockchain (https://designforblockchain.net/)
+    What is blockchain used besides Bitcoin (https://www.forbes.com/sites/quora/2017/11/17/what-is-blockchain-used-for-besides-bitcoin/#37dc689b446e)
+    21 areas of blockchain application beyond financial services (https://gomedici.com/21-areas-of-blockchain-application-beyond-financial-services/)
+    10 keys for evaluating Initial Coin Offering (ICO) investments (https://cryptopotato.com/10-keys-evaluating-initial-coin-offering-ico-investments/)
+    STOs vs. ICOs vs. IPOs: Security Token Offerings Explained Simply (https://www.bitcoinmarketjournal.com/stos-vs-icos/)
+    Interview with R3 CEO (https://www.finextra.com/videoarticle/1985/enterprise-blockchain-and-the-successful-use-cases)
+    Use cases on NEM (https://nem.io/enterprise/use-cases/)
+    Quorum case studies (https://www.quorum.us/resources/case-studies/)
+    Tutellus.io migró su ICO de Ethereum a NEM, aquí explican por qué (https://medium.com/tutellus-io/nem-vs-ethereum-why-do-we-migrate-of-blockchain-in-tutellus-2e823526fb19)
+
+Lean Startup
+
+    https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
+    https://web.stanford.edu/~ndushay/code4lib2012/practical%20agile%20c4l%202012.pdf
+    https://en.wikipedia.org/wiki/Agile_software_development
+
+ICOs/STOs
+
+    https://medium.com/@causalitynz/the-success-of-an-ico-by-roi-6afb4a1a67ef
+    https://hackernoon.com/10-insights-from-investors-how-they-evaluate-ico-projects-e05c00cc8607
+    https://medium.com/blockchain-media/how-to-evaluate-an-initial-cryptocurrency-offering-ico-1bc238cff0ae
+    https://hackernoon.com/security-token-offerings-stos-what-you-need-to-know-8628574d11e2
+
+Smart Contracts
+
+    https://blockgeeks.com/guides/smart-contracts/
+    https://www.coindesk.com/information/ethereum-smart-contracts-work
+    https://blockchainhub.net/smart-contracts/
+    https://www.smartcontractsecurityalliance.com/
+    https://solidified.io/
+
